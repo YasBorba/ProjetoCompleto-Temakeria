@@ -7,3 +7,6 @@
 * Manual de indentidade visual (cores e tipografia)
   ![image](https://github.com/user-attachments/assets/1aa8f341-40d7-45d4-8bf8-582858b2df4f)
 
+* Temakeria Desktop (prototipo de alta fidelidade)
+* Temakeria Mobile (prototipo de alta fidelidade)
+
