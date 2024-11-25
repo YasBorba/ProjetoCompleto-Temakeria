@@ -22,5 +22,4 @@
   ![image](https://github.com/user-attachments/assets/92ec3ddf-9e5f-46a6-89e6-a65dd8818833)
   ![image](https://github.com/user-attachments/assets/82405121-bb76-44f1-b1b5-45516bdbaf1b)
 
-## Projeto temakeria completo (html e css)
 
